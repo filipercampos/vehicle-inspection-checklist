@@ -4,6 +4,8 @@ Electronic pre-trip **vehicle inspection checklist** for light-vehicle fleets (c
 Body damage is recorded on an **interactive 3D model of the vehicle** (hatchback, SUV or double-cab pickup, matching the vehicle being inspected): drag to rotate, tap a part to mark it.
 Runs entirely on **mock data** — no backend, no API keys, no accounts. Open it and try it in 30 seconds.
 
+**Live demo:** https://filipercampos.github.io/vehicle-inspection-checklist/ (pick any inspector to sign in).
+
 ## Run
 
 ```bash
